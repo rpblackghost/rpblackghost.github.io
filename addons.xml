@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.repoblackghost" name="[B][COLOR red]REPO[/COLOR][/B][B][COLOR orange]BLACKGHOST[/COLOR][/B]" version="2.8" provider-name="[B][COLOR lime]@BLACK[/COLOR][/B][B][COLOR yellow]GHOST_B[/COLOR][/B]">
+<addon id="repository.rpblackghost" name="[B][COLOR red]REPO[/COLOR][/B][B][COLOR orange]BLACKGHOST[/COLOR][/B]" version="2.9" provider-name="[B][COLOR lime]@BLACK[/COLOR][/B][B][COLOR yellow]GHOST_B[/COLOR][/B]">
   <requires>
     <import addon="xbmc.addon" version="12.0.0"/>
   </requires>
